@@ -1,0 +1,1607 @@
+{
+  "Riwi ♂": {
+    "pl": "Pies",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Piesek"]
+    }
+  },
+  "Poqo ♂": {
+    "pl": "Dom",
+    "synonyms": {
+      "mine": ["Togif ♂"],
+      "pl": ["domek"]
+    }
+  },
+  "Pello ♂": {
+    "pl": "Zwierze",
+    "synonyms": {
+      "mine": ["Nepolle ♀"],
+      "pl": ["zwierzątko"]
+    }
+  },
+  "Loriwo ♀": {
+    "pl": "Kot",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Kicia", "Kotek"]
+    }
+  },
+  "Reko ♀": {
+    "pl": "Krowa",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Krówka"]
+    }
+  },
+  "Lole ♀": {
+    "pl": "Ryba",
+    "synonyms": {
+      "mine": ["Gifur ♀", "Negufir ♀"],
+      "pl": ["Rybka"]
+    }
+  },
+  "Haspimono ♂": {
+    "pl": "Byk",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Roleto ♀": {
+    "pl": "Homik",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Homiczek"]
+    }
+  },
+  "Lifo ♂": {
+    "pl": "Lew",
+    "synonyms": {
+      "mine": ["Jukpin ♂", "Nejikpun ♀"],
+      "pl": []
+    }
+  },
+  "Likponisp ♂": {
+    "pl": "Koń",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Koniczek"]
+    }
+  },
+  "Ore ♂": {
+    "pl": "Miejsce",
+    "synonyms": {
+      "mine": ["Cifa ♂"],
+      "pl": []
+    }
+  },
+  "Bec ♂": {
+    "pl": "Ulica",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Uliczka"]
+    }
+  },
+  "Resetor ♀": {
+    "pl": "Hotel",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Hallot ♀": {
+    "pl": "restauracja",
+    "synonyms": {
+      "mine": ["Resorante ♀"],
+      "pl": ["Lokal"]
+    }
+  },
+  "Seque'ol ♀": {
+    "pl": "Szkoła",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Sponopo ♀": {
+    "pl": "Lotnisko",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Komizo ♀": {
+    "pl": "Pociąg",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "komilini ♂": {
+    "pl": "Statek",
+    "synonyms": {
+      "mine": ["Hecimi ♀", "Dasif ♂", "Nedisaf ♀"],
+      "pl": ["Liniowiec"]
+    }
+  },
+  "Autom ♂": {
+    "pl": "Samochód",
+    "synonyms": {
+      "mine": ["Remz ♂"],
+      "pl": ["Auto"]
+    }
+  },
+  "Flezo ♀": {
+    "pl": "Samolot",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Beso ♂": {
+    "pl": "Autobus",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Autokar", "omnibus"]
+    }
+  },
+  "Mec ♂": {
+    "pl": "Dzień",
+    "synonyms": {
+      "mine": ["Lelemo ♂"],
+      "pl": []
+    }
+  },
+  "Kem ♀": {
+    "pl": "Noc",
+    "synonyms": {
+      "mine": ["Bico ♀"],
+      "pl": []
+    }
+  },
+  "Rem ♀": {
+    "pl": "Niebo",
+    "synonyms": {
+      "mine": ["Belomi ♀"],
+      "pl": []
+    }
+  },
+  "Fenor ♂": {
+    "pl": "Okno",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Okieńko"]
+    }
+  },
+  "Kofo ♂": {
+    "pl": "Kawa",
+    "synonyms": {
+      "mine": ["Kufasoque ♂", "Nekafusoque ♀"],
+      "pl": ["Kawka", "Kawusia", "Kaweczka"]
+    }
+  },
+  "Timique ♀": {
+    "pl": "Łużko",
+    "synonyms": {
+      "mine": ["Luwag ♀"],
+      "pl": ["Łoże", "Łóżeczko"]
+    }
+  },
+  "Limi ♂": {
+    "pl": "Poranek",
+    "synonyms": {
+      "mine": ["kervino ♂"],
+      "pl": []
+    }
+  },
+  "Melen ♀": {
+    "pl": "Wieczór",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Monem ♀": {
+    "pl": "Księżyc",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Femekp ♂": {
+    "pl": "Bojaźń",
+    "synonyms": {
+      "mine": ["molimi ♂", "wecokp ♂"],
+      "pl": ["Trwoga", "Lęk"]
+    }
+  },
+  "Lewo ♀": {
+    "pl": "Chmury",
+    "synonyms": {
+      "mine": ["mewoque ♀"],
+      "pl": ["Chmurki"]
+    }
+  },
+  "Ter ♂": {
+    "pl": "Mężczyzna",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Talec ♂": {
+    "pl": "Dziecko",
+    "synonyms": {
+      "mine": ["Netelac ♀"],
+      "pl": []
+    }
+  },
+  "Tami ♂": {
+    "pl": "Woda",
+    "synonyms": {
+      "mine": ["Wadique ♂"],
+      "pl": []
+    }
+  },
+  "Atere ♀": {
+    "pl": "Kobieta",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Manokp ♂": {
+    "pl": "Deszcz",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Deszczyk"]
+    }
+  },
+  "Kalor ♀": {
+    "pl": "Góra",
+    "synonyms": {
+      "mine": ["Garinque ♂", "Herimakp ♂", "Nehiremakp ♀"],
+      "pl": []
+    }
+  },
+  "Mekp ♀": {
+    "pl": "Las",
+    "synonyms": {
+      "mine": ["Kikpemiw ♀"],
+      "pl": ["Lasek"]
+    }
+  },
+  "Sise ♂": {
+    "pl": "Śnieg",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Rimat ♂": {
+    "pl": "Stół",
+    "synonyms": {
+      "mine": ["Neramit ♀"],
+      "pl": ["Stołek"]
+    }
+  },
+  "Karase ♂": {
+    "pl": "Krzesło",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Krzesełko"]
+    }
+  },
+  "Kami ♂": {
+    "pl": "Szafa",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Szafka", "Szafeczka"]
+    }
+  },
+  "Terter ♂": {
+    "pl": "Człowiek",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Jagor ♂": {
+    "pl": "Bóg",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Sukpon ♂": {
+    "pl": "Słońce",
+    "synonyms": {
+      "mine": ["hereg ♂"],
+      "pl": ["Słoneczko"]
+    }
+  },
+  "Miklar ♀": {
+    "pl": "Kwiat",
+    "synonyms": {
+      "mine": ["Vesim ♀", "Nevisem ♀"],
+      "pl": ["Kwiatek"]
+    }
+  },
+  "Jakpo ♂": {
+    "pl": "Opowieść",
+    "synonyms": {
+      "mine": ["Nejokpa ♀"],
+      "pl": ["Powieść", "Historia", "Książka"]
+    }
+  },
+  "Teras ♂": {
+    "pl": "Imię",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Merumu ♀": {
+    "pl": "Ciasteczko",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Ciastko"]
+    }
+  },
+  "Ten": {
+    "pl": "I",
+    "synonyms": {
+      "mine": ["Ro", "Gelon"],
+      "pl": ["Oraz"]
+    }
+  },
+  "Orno": {
+    "pl": "Ale",
+    "synonyms": {
+      "mine": ["Molto", "Remi'e"],
+      "pl": ["Lecz", "Zaś", "Natomiast", "Ależ", "Aliści", "Ajuści"]
+    }
+  },
+  "Keron": {
+    "pl": "Jednak",
+    "synonyms": {
+      "mine": ["Minti'on", "Nekoren", "Neminti'on"],
+      "pl": ["Jednakże", "Jednakowoż", "Wszelako"]
+    }
+  },
+  "Lar": {
+    "pl": "Bo",
+    "synonyms": {
+      "mine": ["Pe", "Orgo", "Mic"],
+      "pl": [
+        "ponieważ",
+        "gdyż",
+        "dlatego że",
+        "albowiem",
+        "Bowiem",
+        "Dlatego iż",
+        "Boć",
+        "Boś",
+        "Bom",
+        "Boście",
+        "Bośmy"
+      ]
+    }
+  },
+  "Ollo": {
+    "pl": "Albo",
+    "synonyms": {
+      "mine": ["Ure", "Urto"],
+      "pl": ["Lub", "Bądz"]
+    }
+  },
+  "Bi": {
+    "pl": "Dlaczego",
+    "synonyms": {
+      "mine": ["Kollo"],
+      "pl": ["Czemu", "Czemuż", "Przez co"]
+    }
+  },
+  "Kemm": {
+    "pl": "Że",
+    "synonyms": {
+      "mine": ["Os", "Klis"],
+      "pl": ["Iż"]
+    }
+  },
+  "Leki": {
+    "pl": "Żeby",
+    "synonyms": {
+      "mine": ["Os", "Nelike"],
+      "pl": ["By", "Aby", "Ażeby"]
+    }
+  },
+  "Okker": {
+    "pl": "Mimo że",
+    "synonyms": {
+      "mine": ["Takpem", "Nera"],
+      "pl": ["Chociaż", "Choć"]
+    }
+  },
+  "Jesor": {
+    "pl": "Mimo to",
+    "synonyms": {
+      "mine": ["Tresar", "Nejesar"],
+      "pl": ["I tak", "pomimo tego"]
+    }
+  },
+  "Peco": {
+    "pl": "Dlatego",
+    "synonyms": {
+      "mine": ["kimli", "Nepoce"],
+      "pl": ["zatem", "Przeto", "Przetoż", "Przez to", "Z tego powodu"]
+    }
+  },
+  "Ren": {
+    "pl": "Kiedy",
+    "synonyms": {
+      "mine": ["Emen", "Neme'en"],
+      "pl": ["Gdy"]
+    }
+  },
+  "Basp": {
+    "pl": "Ja",
+    "synonyms": {
+      "mine": ["Besp"]
+    }
+  },
+  "Wero": {
+    "pl": "My",
+    "synonyms": {
+      "mine": []
+    }
+  },
+  "Rem ": {
+    "pl": "Ty",
+    "synonyms": {
+      "mine": ["Womte"]
+    }
+  },
+  "Tumos": {
+    "pl": "Wy",
+    "synonyms": {
+      "mine": []
+    }
+  },
+  "Tu": {
+    "pl": "On",
+    "synonyms": {
+      "mine": []
+    }
+  },
+  "Tum": {
+    "pl": "Ona",
+    "synonyms": {
+      "mine": []
+    }
+  },
+  "Meso": {
+    "pl": "Oni",
+    "synonyms": {
+      "mine": [],
+      "pl": ["One"]
+    }
+  },
+  "Mene": {
+    "pl": "Może",
+    "synonyms": {
+      "mine": ["Nemene"],
+      "pl": ["Czyżby"]
+    }
+  },
+  "Mique'eti": {
+    "pl": "Trochę",
+    "synonyms": {
+      "mine": ["Lemi"],
+      "pl": ["Odrobinę", "Troche", "Odrobine", "Nieco"]
+    }
+  },
+  "lique": {
+    "pl": "Jak",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Me'i": {
+    "pl": "Tu",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Tutaj"]
+    }
+  },
+  "Kula": {
+    "pl": "Tam",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Jem": {
+    "pl": "Tak",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Ro": {
+    "pl": "Nie",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Ekpa": {
+    "pl": "Który",
+    "synonyms": {
+      "mine": ["Ne'akpe"],
+      "pl": ["Która", "którzy", "Które"]
+    }
+  },
+  "Dikp": {
+    "pl": "Prawie",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Niemal"]
+    }
+  },
+  "Mig": {
+    "pl": "Wszystko",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Ka'o": {
+    "pl": "Bardzo",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Lan": {
+    "pl": "Też",
+    "synonyms": {
+      "mine": ["Okpwa", "Ne'akpwo"],
+      "pl": ["Także", "Takoż", "Takowoż", "Również"]
+    }
+  },
+  "Heroque": {
+    "pl": "Duże",
+    "synonyms": {
+      "mine": ["Tisoque", "Risumus", "Ne'isoque"],
+      "pl": ["Duży", "wielki", "wielkie", "ogromne", "ogromny"]
+    }
+  },
+  "Linique": {
+    "pl": "Małe",
+    "synonyms": {
+      "mine": ["Ne'inique", "Chimisu", "Pukposi"],
+      "pl": ["Mały"]
+    }
+  },
+  "Mikpon": {
+    "pl": "Ładny",
+    "synonyms": {
+      "mine": ["lesome", "tomar"],
+      "pl": ["Ładne", "piękne", "piękny", "cudowne", "cudowny"]
+    }
+  },
+  "Itik": {
+    "pl": "Być",
+    "synonyms": {
+      "mine": ["Semo"],
+      "pl": []
+    }
+  },
+  "Kul": {
+    "pl": "Przychodzić",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Rakpu": {
+    "pl": "Pić",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Takpen": {
+    "pl": "Jeść",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Mila": {
+    "pl": "Widzieć",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Kilo": {
+    "pl": "Iść",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Retto": {
+    "pl": "Robić",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+
+  "Torii": {
+    "pl": "Dzisiaj",
+    "synonyms": {
+      "mine": ["Mikpesu"],
+      "pl": ["Dziś"]
+    }
+  },
+  "Hamii": {
+    "pl": "Wczoraj",
+    "synonyms": {
+      "mine": ["Erankp"],
+      "pl": ["Zeszłego dnia"]
+    }
+  },
+  "Tefim ♀": {
+    "pl": "Sklep",
+    "synonyms": {
+      "mine": [],
+      "pl": ["sklepik", "supermarket"]
+    }
+  },
+  "Muli": {
+    "pl": "Chceć",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Perfique": {
+    "pl": "kupić",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Chama": {
+    "pl": "Czarny",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Czarne"]
+    }
+  },
+  "Leme": {
+    "pl": "Białe",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Biały"]
+    }
+  },
+  "Ke'al": {
+    "pl": "Czyste",
+    "synonyms": {
+      "mine": ["Sikpum"],
+      "pl": ["Czysty"]
+    }
+  },
+  "Me'eni": {
+    "pl": "Długie",
+    "synonyms": {
+      "mine": ["Logi"],
+      "pl": ["Długi"]
+    }
+  },
+  "More": {
+    "pl": "Jasne",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Jasny"]
+    }
+  },
+  "Minu": {
+    "pl": "Mało",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Hikp": {
+    "pl": "Dużo",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Motil": {
+    "pl": "Ciepłe",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Ciepły"]
+    }
+  },
+  "Gezror": {
+    "pl": "Gorące",
+    "synonyms": {
+      "mine": ["Okpwa"],
+      "pl": ["Gorący"]
+    }
+  },
+  "Chimi": {
+    "pl": "Zimne",
+    "synonyms": {
+      "mine": [],
+      "pl": ["zimny"]
+    }
+  },
+  "Ora": {
+    "pl": "Dobre",
+    "synonyms": {
+      "mine": ["Tegisa", "Wasim", "Hamiser", "Tesamit", "Neterisa"],
+      "pl": ["Dobry"]
+    }
+  },
+  "Fida ♀": {
+    "pl": "Obraz",
+    "synonyms": {
+      "mine": ["Misumi ♀"],
+      "pl": ["zdięcie"]
+    }
+  },
+  "Jakpero ♀": {
+    "pl": "Książka",
+    "synonyms": {
+      "mine": ["Bemikp ♀", "Nejekparo ♀"],
+      "pl": []
+    }
+  },
+  "Afis ♂": {
+    "pl": "Światło",
+    "synonyms": {
+      "mine": ["Fisa ♂", "Nefasi ♀"],
+      "pl": []
+    }
+  },
+  "Telifon ♂": {
+    "pl": "Telefon",
+    "synonyms": {
+      "mine": ["Smartvhon ♂"],
+      "pl": ["Smartfon"]
+    }
+  },
+  "Takpisi ♀": {
+    "pl": "Jedzenie",
+    "synonyms": {
+      "mine": ["Refic ♀"],
+      "pl": ["Żarcie"]
+    }
+  },
+  "Kifon ♀": {
+    "pl": "Szklanka",
+    "synonyms": {
+      "mine": ["Gilon ♂"],
+      "pl": []
+    }
+  },
+  "Kilkpi ♂": {
+    "pl": "Kielich",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Dukis ♂": {
+    "pl": "Kubek",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+
+  "Koputeri ♂": {
+    "pl": "Komputer",
+    "synonyms": {
+      "mine": ["Gusifoque ♂"],
+      "pl": ["Komputerek"]
+    }
+  },
+  "Paperi ♂": {
+    "pl": "Papier",
+    "synonyms": {
+      "mine": ["Fusuri ♂"],
+      "pl": ["Papierek"]
+    }
+  },
+  "Kowiz ♀": {
+    "pl": "Drzewo",
+    "synonyms": {
+      "mine": ["Nekiwoz ♀"],
+      "pl": ["Drzewko"]
+    }
+  },
+  "Planit ♂": {
+    "pl": "Roślina",
+    "synonyms": {
+      "mine": ["Jaris ♂", "Nejiras"],
+      "pl": ["Roślinka"]
+    }
+  },
+  "Kikpew ♂": {
+    "pl": "Drewno",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Drewieńko"]
+    }
+  },
+  "Lifin ♂": {
+    "pl": "Lampa",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Lampka", "Lampeczka"]
+    }
+  },
+  "Gilus ♀": {
+    "pl": "Miska",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Micha", "miseczka"]
+    }
+  },
+  "Tomis ♀": {
+    "pl": "Warzywa",
+    "synonyms": {
+      "mine": ["Hofise ♂"],
+      "pl": ["Warzywka"]
+    }
+  },
+  "Que'erof ♀": {
+    "pl": "Owoce",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Burique ♀": {
+    "pl": "Jabko",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Tomita'i ♂": {
+    "pl": "Pomidor",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Paprika'i ♂": {
+    "pl": "Papryka",
+    "synonyms": {
+      "mine": ["Fasukpi ♀"],
+      "pl": ["Papryczka"]
+    }
+  },
+  "Churkimu'i ♂": {
+    "pl": "Ogórek",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Ogóreczek"]
+    }
+  },
+  "Chisum ♀": {
+    "pl": "Krew",
+    "synonyms": {
+      "mine": ["Nesichu ♂"],
+      "pl": []
+    }
+  },
+  "Tubikp ♀": {
+    "pl": "Dynia",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+
+  "Heto": {
+    "pl": "Czerwony",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Czerwone"]
+    }
+  },
+  "Spemotosp": {
+    "pl": "Żółty",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Żółte"]
+    }
+  },
+  "Lobo": {
+    "pl": "Niebieski",
+    "synonyms": {
+      "mine": ["Remoj"],
+      "pl": ["Niebieskie"]
+    }
+  },
+  "Kol": {
+    "pl": "Zielony",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Zielone"]
+    }
+  },
+  "Pemo": {
+    "pl": "Pomarańczowy",
+    "synonyms": {
+      "mine": [],
+      "pl": ["pomarańczowe"]
+    }
+  },
+  "Per": {
+    "pl": "Szary",
+    "synonyms": {
+      "mine": ["Szare"],
+      "pl": []
+    }
+  },
+  "Hetolim": {
+    "pl": "Różowy",
+    "synonyms": {
+      "mine": ["Hetoleme"],
+      "pl": ["Różowe"]
+    }
+  },
+  "Bor": {
+    "pl": "Brązowy",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Brązowe"]
+    }
+  },
+  "Kisp": {
+    "pl": "Moje",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Mój", "Moja", "Mojego", "Mego", "moim", "Mym"]
+    }
+  },
+  "We'ino": {
+    "pl": "Nasze",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Nasz", "Naszego", "Nasza", "Naszym"]
+    }
+  },
+  "Rajo": {
+    "pl": "Twój",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Twoje", "Twa", "Twoja", "Twojego", "Twego", "Twoim", "Twym"]
+    }
+  },
+  "Tuli": {
+    "pl": "Wasze",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Waszego", "Wasza", "Wasz", "Waszym"]
+    }
+  },
+  "Turo": {
+    "pl": "Jego",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Tumeli": {
+    "pl": "Jej",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Mosem": {
+    "pl": "Ich",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Bespa": {
+    "pl": "Mnie",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Werat": {
+    "pl": "Nas",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Retam": {
+    "pl": "Ciebię",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Tumetos": {
+    "pl": "Was",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Taro": {
+    "pl": "niego",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Tamo": {
+    "pl": "Niej",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Misa": {
+    "pl": "Nich",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Fikpoq": {
+    "pl": "Szbkie",
+    "synonyms": {
+      "mine": ["Sifakp"],
+      "pl": ["Szybki"]
+    }
+  },
+  "Gamil": {
+    "pl": "Powolne",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Powolny"]
+    }
+  },
+  "Biqo": {
+    "pl": "lubić",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Helt": {
+    "pl": "Mieć",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Serif": {
+    "pl": "Pisać",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Samir": {
+    "pl": "Czytać",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Gafic ♂": {
+    "pl": "Miecz",
+    "synonyms": {
+      "mine": ["Jumique ♀"],
+      "pl": []
+    }
+  },
+  "Vusakp ♂": {
+    "pl": "Tarcza",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Cikpas ♀": {
+    "pl": "Włócznia",
+    "synonyms": {
+      "mine": ["Hikarekp ♀", "Lance'i ♀"],
+      "pl": ["lanca", "pika"]
+    }
+  },
+  "Chalem ♂": {
+    "pl": "Kask",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Hełm"]
+    }
+  },
+  "Mango'i ♀": {
+    "pl": "Mango",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Kiwi ♀": {
+    "pl": "Kiwi",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Tukpifli ♀": {
+    "pl": "Śliwka",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Ananasi ♀": {
+    "pl": "Ananas",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Bananasi ♀": {
+    "pl": "Banan",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Zitrusi ♀": {
+    "pl": "Zytryna",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Papajasi ♂": {
+    "pl": "Papaja",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Melonowiec"]
+    }
+  },
+  "Winkpinas ♀": {
+    "pl": "Winogrona",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Orangisa'i ♀": {
+    "pl": "Pomarańcza",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Te ♂": {
+    "pl": "Herbata",
+    "synonyms": {
+      "mine": ["Sikpuque ♀"],
+      "pl": []
+    }
+  },
+  "Tadif": {
+    "pl": "Mówić",
+    "synonyms": {
+      "mine": ["Sadikp"],
+      "pl": ["Powiedzieć"]
+    }
+  },
+  "Owasque": {
+    "pl": "Umieć",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Makpiqa": {
+    "pl": "Muśieć",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Rastaf ♂": {
+    "pl": "Czas",
+    "synonyms": {
+      "mine": ["Neratsaf"],
+      "pl": []
+    }
+  },
+  "Jocikp ♂": {
+    "pl": "Praca",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Gadrikp ♂": {
+    "pl": "Droga",
+    "synonyms": {
+      "mine": ["Dawrikp ♀"],
+      "pl": []
+    }
+  },
+  "Que'uri": {
+    "pl": "Złe",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Zły"]
+    }
+  },
+  "Novil": {
+    "pl": "Nowe",
+    "synonyms": {
+      "mine": ["Nenivol"],
+      "pl": ["Nowy"]
+    }
+  },
+  "Rokpa": {
+    "pl": "Stare",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Stary"]
+    }
+  },
+  "Uhudi'u": {
+    "pl": "Ważne",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Ważny"]
+    }
+  },
+  "Wujfique": {
+    "pl": "Prawidłowe",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Prawidłowy"]
+    }
+  },
+  "Fiqero": {
+    "pl": "Szybki",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Szybkie"]
+    }
+  },
+  "Tufi": {
+    "pl": "Teraz",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Obecnie", "Aktualnie"]
+    }
+  },
+  "Chosof": {
+    "pl": "Niedłógo",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Wkrótce", "Niebawem", "Wnet"]
+    }
+  },
+  "Gujf": {
+    "pl": "Już",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Kujfi": {
+    "pl": "Znowu",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Znów", "Ponownie"]
+    }
+  },
+  "Jatukp": {
+    "pl": "Zawsze",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Wciąż"]
+    }
+  },
+  "Ofique": {
+    "pl": "Często",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Saf": {
+    "pl": "Nigdy",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Jukp": {
+    "pl": "z",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "ghul": {
+    "pl": "bez",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Duw": {
+    "pl": "Dla",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Arjo": {
+    "pl": "Cześć",
+    "synonyms": {
+      "mine": ["Aj", "Hi", "Hello"],
+      "pl": []
+    }
+  },
+  "Ko-mila": {
+    "pl": "Do widzenia",
+    "synonyms": {
+      "mine": ["Ko mila"],
+      "pl": ["Do zobaczenia"]
+    }
+  },
+  "Ne": {
+    "pl": "Na",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Haktukp": {
+    "pl": "Pod",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Lemi'ekp": {
+    "pl": "Za",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Fenor": {
+    "pl": "Przed",
+    "synonyms": {
+      "mine": ["Venor"],
+      "pl": []
+    }
+  },
+  "Bilikp": {
+    "pl": "Przy",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Obok"]
+    }
+  },
+  "Spekp": {
+    "pl": "Od",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Hi": {
+    "pl": "Do",
+    "synonyms": {
+      "mine": ["Ko"],
+      "pl": []
+    }
+  },
+  "Lin": {
+    "pl": "W",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Fori'o": {
+    "pl": "Sobię",
+    "synonyms": {
+      "mine": [],
+      "pl": ["Sobie", "Się"]
+    }
+  },
+  "Kis": {
+    "pl": "Coś",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Jurif": {
+    "pl": "Nic",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Mesdow": {
+    "pl": "Ktoś",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Que'e": {
+    "pl": "Wszyscy",
+    "synonyms": {
+      "mine": ["Sawerdafique'er"],
+      "pl": ["Wszystkie"]
+    }
+  },
+  "Que'er": {
+    "pl": "Każdy",
+    "synonyms": {
+      "mine": ["Sawerdafique'erbakp"],
+      "pl": []
+    }
+  },
+  "Kur": {
+    "pl": "Nikt",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Jakpema": {
+    "pl": "Potrzebować",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Raq": {
+    "pl": "Myśleć",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Wasaw": {
+    "pl": "Znaleść",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Rad": {
+    "pl": "Dać",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Asar": {
+    "pl": "Wziąć",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Judew": {
+    "pl": "Pytać",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Gastif": {
+    "pl": "Odpowiedzieć",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Tafilsa": {
+    "pl": "Żyć",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Rowas": {
+    "pl": "Kochać",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Tokpil": {
+    "pl": "Pracować",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Goriq": {
+    "pl": "Słyszeć",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Que'ert": {
+    "pl": "Chodzić",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Wakpta": {
+    "pl": "Spać",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Riqaq ♂": {
+    "pl": "Przyjaciel",
+    "synonyms": {
+      "mine": ["Neraqiq ♀"],
+      "pl": []
+    }
+  },
+  "Zarida ♂": {
+    "pl": "Rodzina",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Lasarif ♀": {
+    "pl": "Miasto",
+    "synonyms": {
+      "mine": [],
+      "pl": []
+    }
+  },
+  "Wisa'ir ♀": {
+    "pl": "Kraj",
+    "synonyms": {
+      "mine": ["Nati'ami ♀"],
+      "pl": []
+    }
+  }
+}

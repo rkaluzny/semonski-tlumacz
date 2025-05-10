@@ -1,0 +1,172 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(135deg, #d1e0ff, #f0f4ff);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.verb-box {
+  background-color: white;
+  padding: 30px 40px;
+  border-radius: 20px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  max-width: 400px;
+  width: 100%;
+  text-align: center;
+}
+
+h1 {
+  font-size: 26px;
+  margin-bottom: 15px;
+}
+
+h2 span {
+  background: saddlebrown;
+  color: white;
+  padding: 1px 10px;
+  border-radius: 10px;
+}
+
+input {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  outline: none;
+  transition: border-color 0.3s;
+}
+
+input:focus {
+  border-color: #4a90e2;
+}
+
+button {
+  margin-top: 15px;
+  padding: 12px;
+  width: 100%;
+  background: #4a90e2;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+button:hover {
+  background: #3b7fd1;
+}
+
+#resultBox {
+  margin-top: 25px;
+  text-align: left;
+}
+
+.hidden {
+  display: none;
+}
+
+.conj-group {
+  margin-bottom: 20px;
+}
+
+.conj-group h3 {
+  margin-bottom: 5px;
+  color: #444;
+  font-size: 18px;
+}
+
+.conj-table {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 10px;
+}
+
+.conj-table div {
+  background: #eef6ff;
+  padding: 8px;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+
+.suggestion-section {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.suggestion-section h2 {
+  font-size: 20px;
+  color: #333;
+  margin-bottom: 12px;
+}
+
+.chip-box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+.chip {
+  background-color: #e0f0ff;
+  color: #1a4c7a;
+  border: 1px solid #bcdfff;
+  padding: 8px 14px;
+  border-radius: 999px;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.chip:hover {
+  background-color: #d0e8ff;
+}
+
+.result-box {
+  margin-top: 30px;
+  text-align: center;
+  animation: fadeIn 0.3s ease;
+}
+
+a {
+  background-color: #ffffff;
+  color: #4b3030;
+  padding: 6px 12px;
+  border-radius: 999px;
+  font-size: 16px;
+  border: 1px solid #bcdfff;
+  font-weight: 600;
+  transition: background 0.3s;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #e0f0ff;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.result-box h2,
+.result-box h3 {
+  margin: 10px 0;
+  font-weight: 500;
+  color: #222;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

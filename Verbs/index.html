@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Odmiana czasowników</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" type="image/x-icon" href="../icon512_rounded.png">
+</head>
+
+<body>
+  <main class="verb-box">
+    <h1>🌍 Odmiana czasownika</h1>
+    <input type="text" id="verbInput" placeholder="Wpisz polski czasownik..." />
+    <button id="showBtn">Pokaż odmiany</button>
+
+    <div id="resultBox" class="hidden">
+      <h2>Czasownik w języku semońskim: <span id="semoVerb"></span></h2>
+
+      <div id="conjugationBox"></div>
+    </div>
+
+    <div id="conjugations" class="result-box hidden">
+    </div>
+    <section class="suggestion-section">
+      <h2>Spróbuj:</h2>
+      <div id="verbChips" class="chip-box"></div>
+    </section>
+
+    <div id="resultBox" class="hidden result-box">
+      <h2>Semoński: <span id="semoVerb"></span></h2>
+      <h3>Polski: <span id="polVerb"></span></h3>
+      <div id="conjugationBox"></div>
+    </div>
+
+    <br />
+    <a href="../index.html">Z powrotem</a>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+
+</html>

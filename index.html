@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tłumacz</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="manifest" href="manifest.json">
+    <link rel="icon" type="image/x-icon" href="icon512_rounded.png">
+</head>
+
+<body>
+    <main class="translator-box">
+        <h1>🌍 Tłumacz</h1>
+        <p class="subtitle">Polski ➝ Semoński</p>
+
+        <input type="text" id="inputWord" placeholder="Wpisz słowo" />
+        <ul id="suggestionsList" class="suggestions hidden"></ul>
+
+        <button id="translateBtn">Przetłumacz</button>
+
+        <div id="output" class="result-box hidden">
+            <div class="result-row">
+                <span class="label">Semoński:</span>
+                <span id="translation" class="value"></span>
+            </div>
+
+            <div class="synonyms-section">
+                <h2>Synonimy:</h2>
+                <div class="result-row">
+                    <div id="mineSynonyms" class="chip-box"></div>
+                </div>
+            </div>
+        </div>
+        <div class="stats">
+            <p>📚 Liczba słów w semońskim: <span id="wordCount">0</span></p>
+        </div>
+        <h3>Spróbuj:</h3>
+        <div id="suggestions" class="chip-box"></div>
+        <h3>Czasowniki:</h3>
+        <a href="Verbs/index.html">Tutaj</a>
+
+    </main>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
