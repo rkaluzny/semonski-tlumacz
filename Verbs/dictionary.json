@@ -1038,5 +1038,227 @@
         }
       }
     }
+  },
+  "musieć": {
+    "semo": "Makpiqa",
+    "conjugations": {
+      "present": {
+        "normal": {
+          "(Ja)": "makpi",
+          "(Ty)": "makpem",
+          "(On)": "makpu",
+          "(Ona)": "makpum",
+          "(My)": "makpo",
+          "(Wy)": "makpe'os",
+          "(Oni)": "makpemo"
+        },
+        "chal-perven": {
+          "(Ja)": "makpbasp",
+          "(Ty)": "makprem",
+          "(On)": "makptu",
+          "(Ona)": "makpumtu",
+          "(My)": "makpowro",
+          "(Wy)": "makpe'ostus",
+          "(Oni)": "makpemso"
+        },
+        "perven": {
+          "(Ja)": "makpasp",
+          "(Ty)": "makperem",
+          "(On)": "makputu",
+          "(Ona)": "makputum",
+          "(My)": "makpowero",
+          "(Wy)": "makpe'otus",
+          "(Oni)": "makpemeso"
+        }
+      },
+      "past": {
+        "taril": {
+          "(Ja)": "makpikp",
+          "(Ty)": "makpemekp",
+          "(On)": "makpukp",
+          "(Ona)": "makpumekp",
+          "(My)": "makpokp",
+          "(Wy)": "makpe'osekp",
+          "(Oni)": "makpemokp"
+        },
+        "tamila": {
+          "(Ja)": "makpime",
+          "(Ty)": "makpememe",
+          "(On)": "makpume",
+          "(Ona)": "makpumeme",
+          "(My)": "makpome",
+          "(Wy)": "makpe'oseme",
+          "(Oni)": "makpemome"
+        }
+      },
+      "future": {
+        "kalima": {
+          "(Ja)": "makpik",
+          "(Ty)": "makpemek",
+          "(On)": "makpuk",
+          "(Ona)": "makpumek",
+          "(My)": "makpok",
+          "(Wy)": "makpe'osek",
+          "(Oni)": "makpemok"
+        },
+        "kalir": {
+          "(Ja)": "makpikum",
+          "(Ty)": "makpemekum",
+          "(On)": "makpukum",
+          "(Ona)": "makpumekum",
+          "(My)": "makpokum",
+          "(Wy)": "makpe'osekum",
+          "(Oni)": "makpemokum"
+        }
+      }
+    }
+  },
+  "potrzebować": {
+    "semo": "Jakpema",
+    "conjugations": {
+      "present": {
+        "normal": {
+          "(Ja)": "jakpem",
+          "(Ty)": "jakpemem",
+          "(On)": "jakpemu",
+          "(Ona)": "jakpemum",
+          "(My)": "jakpeme'o",
+          "(Wy)": "jakpemos",
+          "(Oni)": "jakpemeqo"
+        },
+        "chal-perven": {
+          "(Ja)": "jakpemba",
+          "(Ty)": "jakpememre",
+          "(On)": "jakpemtu",
+          "(Ona)": "jakpemumtu",
+          "(My)": "jakpemwer",
+          "(Wy)": "jakpemostum",
+          "(Oni)": "jakpemeqmes"
+        },
+        "perven": {
+          "(Ja)": "jakpemasp",
+          "(Ty)": "jakpemerem",
+          "(On)": "jakpemutu",
+          "(Ona)": "jakpemutum",
+          "(My)": "jakpemower",
+          "(Wy)": "jakpemotum",
+          "(Oni)": "jakpemeqomes"
+        }
+      },
+      "past": {
+        "taril": {
+          "(Ja)": "jakpemekp",
+          "(Ty)": "jakpememekp",
+          "(On)": "jakpemukp",
+          "(Ona)": "jakpemumekp",
+          "(My)": "jakpeme'okp",
+          "(Wy)": "jakpemosekp",
+          "(Oni)": "jakpemeqokp"
+        },
+        "tamila": {
+          "(Ja)": "jakpememe",
+          "(Ty)": "jakpemememe",
+          "(On)": "jakpemume",
+          "(Ona)": "jakpemumeme",
+          "(My)": "jakpeme'ome",
+          "(Wy)": "jakpemoseme",
+          "(Oni)": "jakpemeqome"
+        }
+      },
+      "future": {
+        "kalima": {
+          "(Ja)": "jakpemek",
+          "(Ty)": "jakpememek",
+          "(On)": "jakpemuk",
+          "(Ona)": "jakpemumek",
+          "(My)": "jakpeme'ok",
+          "(Wy)": "jakpemosek",
+          "(Oni)": "jakpemeqok"
+        },
+        "kalir": {
+          "(Ja)": "jakpemekum",
+          "(Ty)": "jakpememekum",
+          "(On)": "jakpemukum",
+          "(Ona)": "jakpemumekum",
+          "(My)": "jakpeme'okum",
+          "(Wy)": "jakpemosekum",
+          "(Oni)": "jakpemeqokum"
+        }
+      }
+    }
+  },
+  "myśleć": {
+    "semo": "Raq",
+    "conjugations": {
+      "present": {
+        "normal": {
+          "(Ja)": "ra",
+          "(Ty)": "raqem",
+          "(On)": "ra'u",
+          "(Ona)": "ram",
+          "(My)": "ra'elo",
+          "(Wy)": "raqe'os",
+          "(Oni)": "raqo"
+        },
+        "chal-perven": {
+          "(Ja)": "raqbasp",
+          "(Ty)": "raqemre",
+          "(On)": "raqtu",
+          "(Ona)": "ramtu",
+          "(My)": "ra'eqwer",
+          "(Wy)": "raqe'ostum",
+          "(Oni)": "raqoqmes"
+        },
+        "perven": {
+          "(Ja)": "raqasp",
+          "(Ty)": "raqerem",
+          "(On)": "raqetu",
+          "(Ona)": "ratum",
+          "(My)": "ra'eqower",
+          "(Wy)": "raqe'otumo",
+          "(Oni)": "raqoqomes"
+        }
+      },
+      "past": {
+        "taril": {
+          "(Ja)": "ra'ekp",
+          "(Ty)": "raqemekp",
+          "(On)": "ra'ukp",
+          "(Ona)": "ramekp",
+          "(My)": "ra'elokp",
+          "(Wy)": "raqe'osekp",
+          "(Oni)": "raqokp"
+        },
+        "tamila": {
+          "(Ja)": "rame",
+          "(Ty)": "raqememe",
+          "(On)": "ra'ume",
+          "(Ona)": "rameme",
+          "(My)": "ra'elome",
+          "(Wy)": "raqe'oseme",
+          "(Oni)": "raqome"
+        }
+      },
+      "future": {
+        "kalima": {
+          "(Ja)": "rak",
+          "(Ty)": "raqemek",
+          "(On)": "ra'uk",
+          "(Ona)": "ramek",
+          "(My)": "ra'elok",
+          "(Wy)": "raqe'osek",
+          "(Oni)": "raqok"
+        },
+        "kalir": {
+          "(Ja)": "rakum",
+          "(Ty)": "raqemekum",
+          "(On)": "ra'ukum",
+          "(Ona)": "ramekum",
+          "(My)": "ra'elokum",
+          "(Wy)": "raqe'osekum",
+          "(Oni)": "raqokum"
+        }
+      }
+    }
   }
 }
